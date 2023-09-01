@@ -1,0 +1,8 @@
+body {
+    background: black;
+    color: white;
+    font-family: arial;
+    text-align: center;
+    display: grid;
+    gap: 24px;
+}
